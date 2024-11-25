@@ -1,0 +1,1 @@
+Here is the flowchart illustrating the steps and data flow for the user registration process in an Airbnb Clone backend system.
